@@ -1,12 +1,4 @@
---[[
-
-
-'Learn to be different'
-
-
-
-                                                                                                                                                                    
-                                                                                                                                                                    
+--[[                                                                                                                                                      
                     NNNNNNNN        NNNNNNNN                                                           iiii                        000000000          888888888     
                     N:::::::N       N::::::N                                                          i::::i                     00:::::::::00      88:::::::::88   
                     N::::::::N      N::::::N                                                           iiii                    00:::::::::::::00  88:::::::::::::88 
@@ -23,12 +15,7 @@ xxxxxxx      xxxxxxxN::::::::::N    N::::::N  aaaaaaaaaaaaa  rrrrr   rrrrrrrrr  
   x:::::x  x:::::x  N::::::N       N:::::::Na:::::aaaa::::::a r:::::r             c:::::::::::::::::ci::::::is::::::::::::::s  00:::::::::::::00  88:::::::::::::88 
  x:::::x    x:::::x N::::::N        N::::::N a::::::::::aa:::ar:::::r              cc:::::::::::::::ci::::::i s:::::::::::ss     00:::::::::00      88:::::::::88   
 xxxxxxx      xxxxxxxNNNNNNNN         NNNNNNN  aaaaaaaaaa  aaaarrrrrrr                cccccccccccccccciiiiiiii  sssssssssss         000000000          888888888     
-                                                                                                                                                                    
-                                                                                                                                            
-Va pup <3
-                                                                                                                                                                    
-                                                                                                                                                                    
-
+                                                                                                                                                                                                                                                                                                                                  
 ]]
 
 
@@ -125,7 +112,7 @@ Citizen.CreateThread(function()
 	end
 end)
 
--- Consuma in rasa ta Benzina
+-- Consum benzina
 Citizen.CreateThread(function()
 	while true do
 
