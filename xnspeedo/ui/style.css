@@ -1,7 +1,8 @@
 
 @font-face {
-  font-family: Russo One;
-  src: url(https://cdn.discordapp.com/attachments/794148650161930250/840100913540497418/Bangers-Regular.woff2);
+  font-family: 'Josefin Sans', sans-serif;
+/*  src: url(https://cdn.discordapp.com/attachments/897186752618442834/898074983719391262/JosefinSans-Regular.woff2);
+*/
   font-weight: bold;
 }
 
@@ -30,7 +31,7 @@
   -moz-osx-font-smoothing: grayscale; }
 
 body {
-  font-family: Russo One;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: normal;
   overflow: hidden;
   height: 100%; }
